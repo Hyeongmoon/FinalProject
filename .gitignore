@@ -3,3 +3,6 @@
 /.metadata/
 .metadata/.log
 /.metadata
+.metadata/.plugins/org.eclipse.wst.server.core/tmp0/publish.txt
+.metadata/.plugins/org.eclipse.wst.server.core/publish/publish0.dat
+.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log
