@@ -68,7 +68,7 @@ public class BookController {
 	@Autowired
 	private BookService bookService;
 
-	// 나이스페이 메소드 클래스
+	// 나이스페이 메소드 클래스 .
 	@Autowired
 	private nicePayment npay;
 
