@@ -37,3 +37,5 @@
 .metadata/.plugins/org.eclipse.wst.server.core/tmp0/logs/localhost_access_log.2025-02-20.txt
 /.metadata
 /.metadata
+/.metadata
+.metadata/.log

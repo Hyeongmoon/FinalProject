@@ -55,7 +55,7 @@ import lombok.extern.slf4j.Slf4j;
 @Controller
 public class BookController {
 
-			
+			//
 	// 상점키
 	private String merchantKey 		= "EYzu8jGGMfqaDEp76gSckuvnaHHu+bC4opsSN6lHv3b2lurNYkVXrZ7Z1AoqQnXI3eLuaUFyoRNC6FkrzVjceg==";
 	
