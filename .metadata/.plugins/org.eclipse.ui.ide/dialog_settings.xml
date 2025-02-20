@@ -108,6 +108,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\00_FinalProject"/>
 			<item value="C:\00_FinalProject_Filoom\Filoom"/>
 			<item value="C:\Filoom\Filoom"/>
 			<item value="C:\00_Final_Project"/>
