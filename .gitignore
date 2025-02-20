@@ -10,3 +10,5 @@
 .metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources
 /.metadata
 .metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
+*.txt
+.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
