@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;Filoom/src/main/webapp/WEB-INF/views/book/book-movies.js&apos;" deleteContents="false" description="Delete resource &apos;Filoom/src/main/webapp/WEB-INF/views/book/book-movies.js&apos;" element1="/Filoom/src/main/webapp/WEB-INF/views/book/book-movies.js" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1737524176463"/>
+</session>
