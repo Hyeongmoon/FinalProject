@@ -63,7 +63,7 @@ public class BookController {
 	private String merchantID 		= "nicepay00m";
 	
 	//영화 가격
-	static final int PRICE = 14000;
+	static final int PRICE = 15000;
 	
 	@Autowired
 	private BookService bookService;
