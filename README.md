@@ -1,4 +1,13 @@
-# FinalProject
+# FinalProject : Filoom
+
+Filoom
 
 
-영화 예매 사이트
+
+![image](https://github.com/user-attachments/assets/eddfdad1-91e8-44cc-acfa-190de82f0451)
+
+
+
+
+
+
