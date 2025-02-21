@@ -33,20 +33,20 @@ FinalProject : Filoom
   - 메인페이지
   <br>
   <img width="20%" src="/filoomMainPage.PNG"/>
-  <br>
+  <br><br>
   - 영화 선택 / 날짜,시간 선택 / 좌석 선택
   <br>
   <img width="20%" src="/selectMovie.PNG"/>
   <img width="20%" src="/selectDate.PNG"/>
   <img width="20%" src="/selectSeat.PNG"/>
-  <br>
+  <br><br>
   - 결제
   <br>
   <img width="20%" src="/pay.PNG"/>
   <img width="20%" src="/paymentResult.PNG"/>
+  <br><br>
+  <a href="https://www.canva.com/design/DAGXp-2z_r4/a0Nagt2UYwKxw7aBsm-xYw/edit?utm_content=DAGXp-2z_r4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> - 전체 UI 보고서 보기 </a>
   <br>
-  - 전체 UI 보기
-  <a href="https://www.canva.com/design/DAGXp-2z_r4/a0Nagt2UYwKxw7aBsm-xYw/edit?utm_content=DAGXp-2z_r4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> UI 보고서 </a>
 </div>
 
 <br>
