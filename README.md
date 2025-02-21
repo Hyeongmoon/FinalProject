@@ -5,11 +5,18 @@ FinalProject : Filoom
   <img src="https://capsule-render.vercel.app/api?type=waving&color=887272&height=180&text=Filoom&animation=fadeIn&fontColor=000000&fontSize=60" />
 </div>
 
- <img width="300px" src="/filoomMainPage.PNG"/>
 <div align= "left"> 
   <h2 style="border-bottom: 1px solid white;"> Filoom 을 소개합니다. </h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: left;">
-    <li>사용자에게 다양한 영화정보를 제공하고, 소통하고, 예매할수 있는 사이트 </li>
+    사용자에게 다양한 영화정보를 제공하고, 소통하고, 예매할수 있는 사이트
+    <br>
+    <img width="20%" src="/filoomMainPage.PNG"/>
+    <img width="20%" src="/selectMovie.PNG"/>
+    <img width="20%" src="/selectDate.PNG"/>
+    <img width="20%" src="/selectSeat.PNG"/>
+    <img width="20%" src="/pay.PNG"/>
+    <img width="20%" src="/paymentResult.PNG"/>
+    <br>
     <br>
     <ul>
         <li>프로젝트 인원 : 5명</li>
@@ -34,8 +41,10 @@ FinalProject : Filoom
 
 <h2 style="border-bottom: 1px solid white;">ERD/다이어그램</h2>
 <div>
-    <img width="900px" src="/ERD.PNG"/>
-    <img width="900px" src="/diagram.PNG/">
+    <br>
+    <img width="30%" src="/ERD.PNG"/>
+    <br><br>
+    <img width="30%" src="/diagram.PNG/">
 </div>
 
 <br>
