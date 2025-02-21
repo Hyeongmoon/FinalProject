@@ -1,16 +1,24 @@
+
 # FinalProject : Filoom
+
 
 <div align= "left">  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=887272&height=180&text=Filoom&animation=fadeIn&fontColor=000000&fontSize=60" />
 </div>
+
 <div align= "left"> 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Filoom 을 소개합니다. </h2>  
-  <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 사용자에게 다양한 영화정보를 제공하고, 소통하고, 예매할수 있는 사이트 </div> 
-  <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 프로젝트 인원 : 5명 </div> 
-  <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 프로젝트 기간<br>2024/12/05~2024/12/26 (총21일) </div> 
+  <h2 style="border-bottom: 1px solid white;"> Filoom 을 소개합니다. </h2>  
+  <div style="font-weight: 700; font-size: 15px; text-align: left;">
+    사용자에게 다양한 영화정보를 제공하고, 소통하고, 예매할수 있는 사이트 
+    <ul>
+        <li>프로젝트 인원 : 5명</li>
+        <li>프로젝트 기간 : 2024/12/05~2024/12/26 (총21일) </li>
+    </ul>
+  </div> 
+  
 </div>
 
-<div align=left><h1>📚 STACKS</h1></div>
+<h2 style="border-bottom: 1px solid white;">📚 STACKS</h2>
 
 <div align=left> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -39,10 +47,7 @@
 </div>
     
 
-<div align=left><h1>ERD</h1></div>
+<h2 style="border-bottom: 1px solid white;">ERD/다이어그램</h2>
+<img src="/ERD.PNG">
 
-<div>
-   <img src="[[[https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white](https://github.com/user-attachments/assets/95ab5c82-5e6e-4f40-9b85-31c258de8ce1)](https://app.diagrams.net/#G1xw9IibpsC-FIW0RvkyfLuefrcQk0whXl#%7B%22pageId%22%3A%2241O1d5Guwu_-yTgAeSLv%22%7D)](https://drive.google.com/file/d/1xw9IibpsC-FIW0RvkyfLuefrcQk0whXl/view?usp=sharing)">
-
-</div>
 
