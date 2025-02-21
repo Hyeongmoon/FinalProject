@@ -5,6 +5,7 @@ FinalProject : Filoom
   <img src="https://capsule-render.vercel.app/api?type=waving&color=887272&height=180&text=Filoom&animation=fadeIn&fontColor=000000&fontSize=60" />
 </div>
 
+ <img width="300px" src="/filoomMainPage.PNG"/>
 <div align= "left"> 
   <h2 style="border-bottom: 1px solid white;"> Filoom 을 소개합니다. </h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: left;">
