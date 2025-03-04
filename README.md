@@ -10,14 +10,6 @@ FinalProject : Filoom
   <div style="font-weight: 700; font-size: 15px; text-align: left;">
     사용자에게 다양한 영화정보를 제공하고, 소통하고, 예매할수 있는 사이트
     <br>
-    <img width="20%" src="/filoomMainPage.PNG"/>
-    <img width="20%" src="/selectMovie.PNG"/>
-    <img width="20%" src="/selectDate.PNG"/>
-    <img width="20%" src="/selectSeat.PNG"/>
-    <img width="20%" src="/pay.PNG"/>
-    <img width="20%" src="/paymentResult.PNG"/>
-    <br>
-    <br>
     <ul>
         <li>프로젝트 인원 : 5명</li>
         <li>프로젝트 기간 : 2024/12/05~2024/12/26 (총21일) </li>
@@ -32,9 +24,29 @@ FinalProject : Filoom
             <li>WAS : Apache Tomcat (9.0.94)</li>
             <li>협업프로그램 : Slack, Github</li>
           </ul>
-        <li>ui보고서 : https://www.canva.com/design/DAGXp-2z_r4/a0Nagt2UYwKxw7aBsm-xYw/edit?utm_content=DAGXp-2z_r4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton</li>
     </ul>
   </div> 
+</div>
+
+<h2 style="border-bottom: 1px solid white;"> UI </h2>
+<div>
+  - 메인페이지
+  <br>
+  <img width="20%" src="/filoomMainPage.PNG"/>
+  <br><br>
+  - 영화 선택 / 날짜,시간 선택 / 좌석 선택
+  <br>
+  <img width="20%" src="/selectMovie.PNG"/>
+  <img width="20%" src="/selectDate.PNG"/>
+  <img width="20%" src="/selectSeat.PNG"/>
+  <br><br>
+  - 결제
+  <br>
+  <img width="20%" src="/pay.PNG"/>
+  <img width="20%" src="/paymentResult.PNG"/>
+  <br><br>
+  <a href="https://www.canva.com/design/DAGXp-2z_r4/a0Nagt2UYwKxw7aBsm-xYw/edit?utm_content=DAGXp-2z_r4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> - 전체 UI 보고서 보기 </a>
+  <br>
 </div>
 
 <br>
