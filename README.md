@@ -17,7 +17,7 @@ FinalProject : Filoom
           <ul>
             <li>Language : JAVA 11, HTML5, CSS3, JavaScript</li>
             <li>Library : jQuery, JSTL</li>
-            <li>Framework : <u><b>Spirng Framework 5.3.14, Mybatis, Bootstrap</b></u></li>
+            <li>Framework : <u><b>Spirng Framework 5.3.14</b></u>, Mybatis, Bootstrap</li>
             <li>DB : Oracle 11g EE</li>
             <li>설계 : ERDCloud, Figma, draw.io</li>
             <li> IDE : STS, Oracle SQL Developer, Visual Studio Code</li>
