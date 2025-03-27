@@ -1,167 +1,91 @@
-FinalProject : Filoom
+# Filoom 🎬
 
-
-<div align= "left">  
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=887272&height=180&text=Filoom&animation=fadeIn&fontColor=000000&fontSize=60" />
 </div>
 
-<div align= "left"> 
-  <h2 style="border-bottom: 1px solid white;"> Filoom 을 소개합니다. </h2>  
-  <div style="font-weight: 700; font-size: 15px; text-align: left;">
-    사용자에게 다양한 영화정보를 제공하고, 소통하고, 예매할수 있는 사이트
-    <br>
-    <ul>
-        <li>프로젝트 인원 : 5명</li>
-        <li>프로젝트 기간 : 2024/12/05~2024/12/26 (총21일) </li>
-        <li>개발환경
-          <ul>
-            <li>Language : JAVA 11, HTML5, CSS3, JavaScript</li>
-            <li>Library : jQuery, JSTL</li>
-            <li>Framework : Spirng Framework 5.3.14, Mybatis, Bootstrap</li>
-            <li>DB : Oracle 11g EE</li>
-            <li>설계 : ERDCloud, Figma, draw.io</li>
-            <li> IDE : STS, Oracle SQL Developer, Visual Studio Code</li>
-            <li>WAS : Apache Tomcat (9.0.94)</li>
-            <li>협업프로그램 : Slack, Github</li>
-          </ul>
-    </ul>
-  </div> 
-</div>
+## 📋 프로젝트 소개
+Filoom은 사용자에게 다양한 영화 정보를 제공하고, 소통하며, 예매할 수 있는 종합 영화 플랫폼입니다.
 
-<h2 style="border-bottom: 1px solid white;"> UI </h2>
-<div>
-  - 메인페이지
-  <br>
-  <img width="20%" src="/filoomMainPage.PNG"/>
-  <br><br>
-  - 영화 선택 / 날짜,시간 선택 / 좌석 선택
-  <br>
-  <img width="20%" src="/selectMovie.PNG"/>
-  <img width="20%" src="/selectDate.PNG"/>
-  <img width="20%" src="/selectSeat.PNG"/>
-  <br><br>
-  - 결제
-  <br>
-  <img width="20%" src="/pay.PNG"/>
-  <img width="20%" src="/paymentResult.PNG"/>
-  <br><br>
-  <a href="https://www.canva.com/design/DAGXp-2z_r4/a0Nagt2UYwKxw7aBsm-xYw/edit?utm_content=DAGXp-2z_r4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> - 전체 UI 보고서 보기 </a>
-  <br>
-</div>
+### 🎯 주요 기능
+- 영화 정보 조회 및 검색
+- 실시간 영화 예매
+- 사용자 리뷰 및 커뮤니티
+- 이벤트 및 공지사항
+- 1:1 문의 서비스
 
-<br>
+## 🛠 기술 스택
+### 개발 환경
+- **언어**: Java 11, HTML5, CSS3, JavaScript
+- **라이브러리**: jQuery, JSTL
+- **프레임워크**: Spring Framework 5.3.14, MyBatis, Bootstrap
+- **데이터베이스**: Oracle 11g EE
+- **서버**: Apache Tomcat 9.0.94
 
-<h2 style="border-bottom: 1px solid white;">ERD/다이어그램</h2>
-<div>
-    <br>
-    <img width="30%" src="/ERD.PNG"/>
-    <br><br>
-    <img width="30%" src="/diagram.PNG/">
-</div>
+### 개발 도구
+- **IDE**: STS, Oracle SQL Developer, Visual Studio Code
+- **설계 도구**: ERDCloud, Figma, draw.io
+- **협업 도구**: Slack, GitHub
 
-<br>
+## 👥 프로젝트 정보
+- **팀원**: 5명
+- **기간**: 2024.12.05 ~ 2024.12.26 (21일)
 
-<h2 style="border-bottom: 1px solid white;">프로젝트 주제 및 기획</h2>
-    <ul>
-        <li>사용자 중심의 편리한 영화 예매</li>
-        <li>UI 기획, 설계 및 개선</li>
-        <li>실시간 연동기능 구현</li>
-        <li>협업 능력 향상</li>
-        <li>API 활용 경험</li>
-    </ul>
+## 📸 프로젝트 화면
+### 메인 페이지
+<img width="20%" src="/filoomMainPage.PNG"/>
 
-<br>
+### 예매 프로세스
+<img width="20%" src="/selectMovie.PNG"/>
+<img width="20%" src="/selectDate.PNG"/>
+<img width="20%" src="/selectSeat.PNG"/>
 
-<h2 style="border-bottom: 1px solid white;">세부기능</h2>
-<div style="display:flex">
-    <div style="border:1px solid red;">
-        <h4>김다훈</h4>
-        <ul>
-            <li>
-                회원 관리 기능
-                <ul>
-                    <li>로그인</li>
-                    <li>로그아웃</li>
-                    <li>아이디, 비밀번호 찾기</li>
-                    <li>회원가입 + 이메일 본인인증(API)</li>
-                </ul>
-            </li>
-            <li>마이페이지
-                <ul>
-                    <li>내 정보 조회</li>
-                    <li>내 정보 수정</li>
-                    <li>회원 탈퇴</li>
-                    <li>비밀번호 바꾸기</li>
-                    <li>나의 예매 내역 조회</li>
-                    <li>좋아요한 영화 조회</li>
-                    <li>나의 리뷰 조회</li>
-                    <li>내 쿠폰 조회</li>
-                    <li>나의 이벤트 조회</li>
-                </ul>
-            </li>
-        </ul>
-    </div>
-    <div style="border:1px solid red;">
-        <h4>정원섭</h4>
-        <ul>
-            <li>
-                영화 관리 기능
-                <ul>
-                    <li>영화 목록 조회</li>
-                    <li>영화 검색(제목 키워드)</li>
-                    <li>필터링(상영여부 / 장르)</li>
-                    <li>정렬(최신순 / 인기순 / 가나나순)</li>
-                    <li>영화 상세조회</li>
-                    <li>질리기(좋아요)</li>
-                    <li>리뷰 목록 조회</li>
-                    <li>리뷰 필터링(실제 관람평만)</li>
-                    <li>리뷰 작성</li>
-                    <li>리뷰 수정</li>
-                    <li>리뷰 삭제</li>
-                </ul>
-            </li>
-        </ul>
-    </div>
-</div>
-<div style="border:1px solid red;">
-<div style="border:1px solid red;">
-<h4>김형문, 박재우</h4>
-<ul>
-    <li>
-        예매 관리 기능
-        <ul>
-            <li>예매 (결제 API)</li>
-            <li>예매 취소</li>
-            <li>예매 내역 상세조회</li>
-        </ul>
-    </li>
-</ul>
-</div>
-<div style="border:1px solid red;">
-<h4>한혜원</h4>
-<ul>
-    <li>
-        공지사항 관리 기능
-        <ul>
-            <li>공지사항 목록 조회</li>
-            <li>공지사항 상세 조회</li>
-        </ul>
-    </li>
-    <li>
-        이벤트 게시판 관리 기능
-        <ul>
-            <li>이벤트 게시판 목록 조회</li>
-            <li>이벤트 게시판 상세 조회</li>
-            <li>댓글 목록 조회</li>
-            <li>댓글 작성</li>
-            <li>댓글 수정</li>
-            <li>댓글 삭제</li>
-            <li>이벤트 목록 필터링</li>
-        </ul>
-    </li>
-    <li>
-        1:1 문의
-    </li>
-</ul>
-</div>
-</div>
+### 결제 프로세스
+<img width="20%" src="/pay.PNG"/>
+<img width="20%" src="/paymentResult.PNG"/>
+
+> [전체 UI 보고서 보기](https://www.canva.com/design/DAGXp-2z_r4/a0Nagt2UYwKxw7aBsm-xYw/edit?utm_content=DAGXp-2z_r4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+## 📊 시스템 설계
+### ERD
+<img width="30%" src="/ERD.PNG"/>
+
+### 시스템 다이어그램
+<img width="30%" src="/diagram.PNG/">
+
+## 👨‍💻 팀원별 담당 기능
+
+### 김다훈
+#### 회원 관리
+- 로그인/로그아웃
+- 회원가입 (이메일 본인인증)
+- 아이디/비밀번호 찾기
+- 마이페이지 관리
+  - 개인정보 관리
+  - 예매 내역
+  - 좋아요 영화
+  - 리뷰 관리
+  - 쿠폰/이벤트 관리
+
+### 정원섭
+#### 영화 관리
+- 영화 목록/검색
+- 필터링 및 정렬
+- 영화 상세 정보
+- 리뷰 시스템
+  - 리뷰 CRUD
+  - 필터링
+
+### 김형문, 박재우
+#### 예매 시스템
+- 영화 예매
+- 결제 시스템 연동
+- 예매 취소
+- 예매 내역 관리
+
+### 한혜원
+#### 커뮤니티 관리
+- 공지사항
+- 이벤트 게시판
+- 댓글 시스템
+- 1:1 문의
