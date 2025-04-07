@@ -22,6 +22,12 @@ import com.kh.filoom.movie.model.vo.MovieWithPoster;
 @Repository
 public class BookDao {
 
+	
+	//
+	public void newTestMethod() {
+		System.out.println("새로운 코드를 수정한 부분");
+	}
+	//
 	public ArrayList<Movie> selectList(SqlSessionTemplate sqlSession) {
 		// TODO Auto-generated method stub
 		return (ArrayList)sqlSession.selectList("movieMapper.selectList");
@@ -88,7 +94,7 @@ public class BookDao {
 	
 	public ArrayList<Movie> selectListKid(SqlSessionTemplate sqlSession) {
 		// TODO Auto-generated method stub
-		return (ArrayList)sqlSession.selectList("movieMapper.selectListKid");
+		return (ArrayList)sqlSession.selectList("movieMappqer.selectListKid");
 	}
 	
 	public ArrayList<Movie> selectFirstMovieKid(SqlSessionTemplate sqlSession) {
