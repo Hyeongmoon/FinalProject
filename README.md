@@ -33,25 +33,25 @@ Filoom은 사용자에게 다양한 영화 정보를 제공하고, 소통하며,
 
 ## 📸 프로젝트 화면
 ### 메인 페이지
-<img width="20%" src="/filoomMainPage.PNG"/>
+<img width="50%" src="/filoomMainPage.PNG"/>
 
 ### 예매 프로세스
-<img width="20%" src="/selectMovie.PNG"/>
-<img width="20%" src="/selectDate.PNG"/>
-<img width="20%" src="/selectSeat.PNG"/>
+<img width="50%" src="/selectMovie.PNG"/>
+<img width="50%" src="/selectDate.PNG"/>
+<img width="50%" src="/selectSeat.PNG"/>
 
 ### 결제 프로세스
-<img width="20%" src="/pay.PNG"/>
-<img width="20%" src="/paymentResult.PNG"/>
+<img width="50%" src="/pay.PNG"/>
+<img width="50%" src="/paymentResult.PNG"/>
 
 > [전체 UI 보고서 보기](https://www.canva.com/design/DAGXp-2z_r4/a0Nagt2UYwKxw7aBsm-xYw/edit?utm_content=DAGXp-2z_r4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## 📊 시스템 설계
 ### ERD
-<img width="30%" src="/ERD.PNG"/>
+<img width="90%" src="/ERD.PNG"/>
 
 ### 시스템 다이어그램
-<img width="30%" src="/diagram.PNG/">
+<img width="90%" src="/diagram.PNG/">
 
 ## 👨‍💻 팀원별 담당 기능
 
